@@ -1,0 +1,230 @@
+{
+    "songs":[
+        {
+            "name": "Animals Song ",
+            "time": "01:32",
+            "word": "《动物之歌》",
+            "src": "./static/images/song2.jpeg"
+
+        },
+        {
+            "name": "walkingwalking ",
+            "time": "01:45",
+            "word": "《步行》",
+            "src": "./static/images/song3.jpeg"
+
+        },
+        {
+            "name": "Round And Round ",
+            "time": "02:55",
+            "word": "《一圈又一圈》",
+            "src": "./static/images/song4.jpeg"
+        },
+        {
+            "name": "Wheels on the bus ",
+            "time": "00:58",
+            "word": "《公共汽车上的轮子》",
+            "src": "./static/images/song5.jpeg"
+        },
+        {
+            "name": "Baby Shark ",
+            "time": "03:09",
+            "word": "《幼鲨》",
+            "src": "./static/images/song6.jpeg"
+        },
+        {
+            "name": "How Are You ",
+            "time": "01:50",
+            "word": "《你好吗》",
+            "src": "./static/images/song7.jpeg"
+        },
+        {
+            "name": "I am hungry ",
+            "time": "00:47",
+            "word": "《我饿了》",
+            "src": "./static/images/song8.jpeg"
+        }
+    ],
+    "story":[
+        {
+            "name": "Where is the yellow ball ",
+            "word":"《黄色的球在哪里》",
+            "time": "02:19",
+            "src": "./static/images/story2.jpeg"
+        },
+        {
+            "name": "The king has big ears ",
+            "word": "《国王有大耳朵》",
+            "time": "03:35",
+            "src": "./static/images/story3.jpeg"
+        },
+        {
+            "name": "little rabbits ",
+            "time": "06:14",
+            "word": "《小兔子的故事》",
+            "src": "./static/images/story4.jpeg"
+        },
+        {
+            "name": "The king's new clothes ",
+            "time": "04:33",
+            "word": "《国王的新衣》",
+            "src": "./static/images/story5.jpeg"
+        },
+        {
+            "name": "Race between the tortoise and the hare ",
+            "time": "03:55",
+            "word": "《龟兔赛跑》",
+            "src": "./static/images/story6.jpeg"
+        },
+        {
+            "name": "dinopaws",
+            "time": "04:25",
+            "word": "《好奇小恐龙》",
+            "src": "./static/images/story7.jpeg"
+        },
+        {
+            "name": "RLittle Red Riding Hood ",
+            "time": "03:55",
+            "word": "《小红帽》",
+            "src": "./static/images/story8.jpeg"
+        }
+    ],
+    "questions": [
+        {
+            "matter": "What animals don't sweat?",
+            "matterWords": "什么动物不会流汗？",
+            "answer": "dog",
+            "answerWords":"狗"
+        },
+        {
+            "matter": "What is the highest mountain in the world?",
+            "matterWords": "世界上最高的山峰是？",
+            "answer": "Mount Qomolangma",
+            "answerWords": "珠穆朗玛峰"
+        },
+        {
+          "matter": "When the oil is on fire, what can't be used to put out the fire?",
+          "matterWords": "当油着火时，不能用什么灭火？",
+          "answer": "water",
+          "answerWords": "水"
+        }, 
+        {
+          "matter": "What breaks as soon as it's said?",
+          "matterWords": "什么东西一说出来就打破？",
+          "answer": "silent",
+          "answerWords": "沉默"
+        }, 
+        {
+          "matter": "What is silkworm's favorite food?",
+          "matterWords": "蚕最喜欢的食物是什么？",
+          "answer": "Mulberry leaves",
+          "answerWords": "桑叶"
+        }
+    ],
+    "cards":[
+        {
+            "title":"dog",
+            "word":"狗",
+            "photo":"./static/images/card1.jpg"
+        },
+        {
+            "title": "cat",
+            "word": "猫",
+            "photo": "./static/images/card2.jpg"
+        },
+        {
+            "title": "apple",
+            "word": "苹果",
+            "photo": "./static/images/card3.jpg"
+        }
+    ],
+    "usual":[
+        {
+            "title":"book",
+            "word":"书",
+            "type":"1",
+            "photo":[
+                {
+                  "src": "./static/images/usual1-1.jpg",
+                  "id":"1"
+                },
+                {
+                  "src": "./static/images/usual1-2.jpg",
+                  "id": "2"
+                }, 
+                {
+                  "src": "./static/images/usual1-3.jpg",
+                  "id": "3"
+                }, 
+                {
+                  "src": "./static/images/usual1-4.jpg",
+                  "id": "4"
+                }
+            ]
+        },
+        {
+            "title": "ruler",
+            "word": "尺子",
+            "type": "3",
+            "photo": [
+                {
+                    "src": "./static/images/usual2-3.jpg",
+                    "id": "1"
+                },
+                {
+                    "src": "./static/images/usual2-2.jpg",
+                    "id": "2"
+                },
+                {
+                    "src": "./static/images/usual2-1.jpg",
+                    "id": "3"
+                },
+                {
+                    "src": "./static/images/usual2-4.jpg",
+                    "id": "4"
+                }
+            ]
+        },
+        {
+          "title": "dog",
+          "word": "狗",
+          "type": "2",
+          "photo": [{
+              "src": "./static/images/usual3-2.jpg",
+              "id": "1"
+            },
+            {
+              "src": "./static/images/usual3-1.jpg",
+              "id": "2"
+            },
+            {
+              "src": "./static/images/usual3-3.jpg",
+              "id": "3"
+            },
+            {
+              "src": "./static/images/usual3-4.jpg",
+              "id": "4"
+            }
+          ]
+        }
+    ],
+    "sentences":[
+        {
+            "title": "Good morning!",
+            "word":"早上好！"
+        },
+        {
+            "title": "How are you? ",
+            "word": "你好吗？"
+        },
+        {
+          "title": "Thank you!",
+          "word": "谢谢！"
+        }, 
+        {
+          "title": "Are you ready?",
+          "word": "你准备好了吗？"
+        }
+
+    ]
+} 
